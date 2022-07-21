@@ -13,3 +13,9 @@ console.log(typeof d)
 console.log(typeof e)
 console.log(typeof f)
 console.log(typeof g)
+
+const item = {
+    "name":"Bulb",
+    "price":"200"
+  }
+  console.log(item["name"])
